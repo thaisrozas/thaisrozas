@@ -1,6 +1,6 @@
 ## Olá, eu sou a Thaís Rozas!
 
-- 💻 Hoje trabalho com Front-End!
+- 💻 Atualmente sou programadora multimídia na área de educação à distância!
 <!-- - ⭐ Me aprofundando em Javascript...-->
 - 🙆‍♀️ Pronomes: ela/dela
 
