@@ -1,7 +1,7 @@
 ## Olá, eu sou a Thaís Rozas!
 
 - 💻 Hoje trabalho com Front-End!
-- ⭐ Me aprofundando em Javascript...
+<!-- - ⭐ Me aprofundando em Javascript...-->
 - 🙆‍♀️ Pronomes: ela/dela
 
 
