@@ -5,10 +5,10 @@
 - 🙆‍♀️ Pronomes: ela/dela
 
 
-<div style="align-item:center; display:flex">
+<div align="left">
   <a href="https://github.com/ThaisRozas">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=ThaisRozas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <!--<img height="140em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisRozas&layout=compact&langs_count=7&theme=dracula"/>-->
+  <!--<img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=ThaisRozas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
+  <img height="140em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisRozas&theme=dracula"/>
 </div>
 
 
