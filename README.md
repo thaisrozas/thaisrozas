@@ -4,11 +4,11 @@
 <!-- - ⭐ Me aprofundando em Javascript...-->
 - 🙆‍♀️ Pronomes: ela/dela
 
-<!--<div align="center">
+<div align="center">
   <a href="https://github.com/ThaisRozas">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=ThaisRozas&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisRozas&count_private=true&langs_count=7&layout=compact&theme=dracula"/>
-</div>-->
+</div>
 
 
 <div style="display: inline_block"><br>
