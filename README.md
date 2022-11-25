@@ -1,4 +1,4 @@
-## Olá, eu sou a Thaís Rozas!
+### Hi, my name is Thaís Rozas!
 
 # 💫 About Me:
 I'm currently working on web development for education<br>I'm looking for to collaborate on projects related to interactive components and educational content<br>I'm dedicated to expand my knowledge in wed development technologies, programming languages and frameworks such as Javascript, Boostrap and API communication.<br>Fun fact about me: computer science is not my first graduation, i'm also a curious sociologist, seeking to expand my perspective<br>
