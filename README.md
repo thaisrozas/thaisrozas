@@ -1,34 +1,23 @@
 ## Olá, eu sou a Thaís Rozas!
 
-- 💻 Atualmente sou programadora multimídia na área de educação à distância!
-<!-- - ⭐ Me aprofundando em Javascript...-->
-- 🙆‍♀️ Pronomes: ela/dela
-
-<div align="center">
-  <a href="https://github.com/ThaisRozas">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=ThaisRozas&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisRozas&count_private=true&langs_count=7&layout=compact&theme=dracula"/>
-</div>
+# 💫 About Me:
+I'm currently working on web development for education<br>I'm looking for to collaborate on projects related to interactive components and educational content<br>I'm dedicated to expand my knowledge in wed development technologies, programming languages and frameworks such as Javascript, Boostrap and API communication.<br>Fun fact about me: computer science is not my first graduation, i'm also a curious sociologist, seeking to expand my perspective<br>
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thais-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Thais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thais-rozas-teixeira) 
 
-</div>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ThaisRozas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ThaisRozas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisRozas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div>
+---
+[![](https://visitcount.itsvg.in/api?id=ThaisRozas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <a href="mailto:thaisrozas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/thais-rozas-teixeira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-
- <!--![Snake animation](https://github.com/ThaisRozas/ThaisRozas/blob/output/github-contribution-grid-snake.svg)-->
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
