@@ -1,23 +1,47 @@
-### Hi, my name is Thaís Rozas!
+# Hi, I'm Thaís Rozas 👋
 
-## About Me:
-📌 I'm a junior Frontend Developer with a background in Sociology of Science and Technology. <br> 🦉 As a sociologist, I have developed a keen eye for analyzing social systems and its relationship with scientific and technological developments. My experience with sociological researches and other projects has also helped me to develop a critical perspective on the world around me. <br> 🚀 As a developer, it's easy to get caught up in the details of code and lose sight of the bigger picture. However, my sociological training has taught me to always consider the context of a problem and to question assumptions and biases that might be influencing my thinking. This has helped me to approach programming challenges with a more open mind and to be more creative and innovative in my solutions. I believe that this approach has made me a more effective and empathetic developer. <br> 👩‍💻 In frontend development, I have work experience with HTML, CSS, and JavaScript, but I'm always eager to learn more. I'm particularly interested in web development and I'm currently expanding my knowledge in web frameworks, such as React and Vue.js, and technologies for backend development like Node.js and PHP. <br> 💻 I'm currently working for a university as the programmer responsible for the use and customization of its Learning Management System (LMS). <br> 😎 In my spare time, I enjoy reading about the latest developments in technology and sociology, and also different genres of fiction, playing tennis and beach tennis and surfing in different spots at Fortaleza, Ceará. Let's connect and collaborate on a project that makes a difference!
+I am a **data-oriented professional** with a strong foundation in **Python, Computer Science, and UX Research**, supported by an interdisciplinary background in **Sociology of Science and Technology**. This combination allows me to analyze data not only from a technical perspective, but also with critical awareness of context, bias, and user impact.
 
+I hold a degree in **Sociology**, and both my undergraduate and master’s research focused on **Science and Technology Studies (STS)**, with an emphasis on the relationship between data, technology, and society. I also hold a degree in **Computer Science**, and my undergraduate thesis focused on **multimodal analysis of text and images for fake news detection**, strengthening my skills in data analysis, machine-assisted research, and information reliability.
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thais-rozas-teixeira) 
+I have professional experience working with **data and systems in real-world environments**. As the developer responsible for a university **Learning Management System (LMS)**, I worked with **data queries, dashboards, and frontend interfaces**, supporting data-driven monitoring of students and tutors within a multidisciplinary team.
 
-<!--# Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)-->
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thaisrozas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thaisrozas&theme=dark&hide_border=false)
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisrozas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
+Currently, I work as a **UX Designer in the banking sector**, collaborating closely with developers and analysts. My role involves analyzing user behavior, supporting data-informed decisions, and contributing to systems built with consistency through an established **Design System**.
 
-<!--### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+At the moment, I am deepening my expertise in **Python for Data Analysis**, data querying, visualization, and analytical workflows.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thaisrozas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Proudly created with GPRM ( https://gprm.itsvg.in )-->
+## 🛠️ Technical Skills
+
+- **Programming & Data:** Python, SQL  
+- **Data Analysis:** Pandas, NumPy, data cleaning, exploratory data analysis (EDA)  
+- **Data Visualization:** Matplotlib, Seaborn (basic), dashboards  
+- **Frontend (supporting role):** HTML, CSS, JavaScript, React  
+- **Research & Analysis:** Multimodal analysis, data interpretation, bias awareness  
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Python for data analysis  
+- Data visualization and storytelling  
+- Analytical workflows and best practices  
+- Statistics and data-driven decision making  
+
+---
+
+## 💡 Interests
+
+- Data analysis applied to real-world problems  
+- Information quality and fake news detection  
+- UX-informed and user-centered data solutions  
+- Technology, society, and ethics in data systems  
+
+---
+
+### 🔎 What you’ll find in my repositories
+
+- Python exercises and notebooks focused on data analysis fundamentals  
+- Exploratory data analysis and small analytical projects  
+- Experiments combining **data, research, and UX perspectives**
