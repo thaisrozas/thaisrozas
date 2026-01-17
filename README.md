@@ -17,7 +17,7 @@ At the moment, I am deepening my expertise in **Python for Data Analysis**, data
 - **Programming & Data:** Python, SQL  
 - **Data Analysis:** Pandas, NumPy, data cleaning, exploratory data analysis (EDA)  
 - **Data Visualization:** Matplotlib, Seaborn (basic), dashboards  
-- **Frontend (supporting role):** HTML, CSS, JavaScript, React  
+- **Frontend:** HTML, CSS, JavaScript, React  
 - **Research & Analysis:** Multimodal analysis, data interpretation, bias awareness  
 
 ---
